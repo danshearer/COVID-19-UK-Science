@@ -1,5 +1,5 @@
 ---
-title: Actions Re Science & COVID-20 in the UK v0.9
+title: Actions Re Science & COVID-20 in the UK v1.0
 author: Dan Shearer
 date: 25 March 2020
 mainfont: WenQuanYi Micro Hei Mono

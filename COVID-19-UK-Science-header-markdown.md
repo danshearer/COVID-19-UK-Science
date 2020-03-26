@@ -1,6 +1,6 @@
 # Actions Re Science & COVID-20 in the UK 
 
-version 0.9
+version 1.0
 
 Dan Shearer
 25 March 2020
