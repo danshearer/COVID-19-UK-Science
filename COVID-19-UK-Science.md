@@ -1,19 +1,5 @@
----
-title: Actions Re Science & COVID-20 in the UK v0.9
-author: Dan Shearer
-date: 25 March 2020
-header-includes: |
-    \usepackage{fancyhdr}
-    \pagestyle{fancy}
-abstract: What actions should we take when we are getting conflicting advice from seemingly-authoritative sources? Non-specialist citizens are planning their lives, and the medical science of COVID-19 is for specialists with experience. In the UK citizens have found it difficult to understand the political and administrative communication of policy. On 20th March 2020 the UK government at Westminster finally published the scientific advice they have been relying on, and the international science and technology community commenced its review. This document focusses on just a few of the hundreds of points in the UK scientific evidence. These conclusions do not always agree with what the UK Prime Minister and his staff have been saying, and citizens may choose to direct their actions accordingly.
 
----
-
-\newpage
-\tableofcontents
-\newpage
-
-![Social Distancing [(from Pixabay)](https://pixabay.com/illustrations/covid-19-coronavirus-4964287/)](./covid-19-distance.jpg)
+![Social Distancing [(from Pixabay)](https://pixabay.com/illustrations/covid-19-coronavirus-4964287/)](./images/covid-19-distance.jpg)
 
 I am [Dan Shearer](https://www.linkedin.com/in/danshearer/).
 
@@ -23,7 +9,6 @@ received; send them to dan@shearer.org .
 
 Licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
 
-\newpage
 
 Status of This Document
 =======================
@@ -71,7 +56,6 @@ with the Chief Medical Officer Dr Catherine Calderwood and Nicola Sturgeon
 quoted as saying at the press conference that different suppression rules may
 be needed in Scotland and different parts of Scotland. 
 
-\newpage
 
 Action Items
 ============
@@ -116,7 +100,6 @@ science, there is an outline of the legal import of the Precautionary
 Principle and decisions the UK Parliament is about to make but which have been
 paused for COVID-19.
 
-\newpage
 
 Detail of the UK Science
 ========================
@@ -155,7 +138,6 @@ within England, plus smaller islands. Is this perhaps where COVID-19 responses
 could become perceived as politically motivated, and therefore the science
 would not be applied?
 
-\newpage
 
 Critiques, and Imperial College Modelling
 =========================================
@@ -238,8 +220,6 @@ To further illustrate how important a multiplicity of science voices are, on 25t
 
 
 
-\newpage
-
 Open Source Action Items
 ========================
 
@@ -278,7 +258,6 @@ Apart from building PAPRs (which seems quite obvious thing to do) there is scope
 * analytics from ventilators and ECMOs needs to be gathered as a priority national resource. Noninvasive logging into an open form in public is a low-risk, high-reward activity.
 * analytics from ECMO machines even more so, perhaps assisting in better allocating their usage as the scarecest of resources 
 
-\newpage
 
 Agreement In Science-based Opinions
 ===================================
@@ -335,7 +314,6 @@ hundreds of emergency doctors coming from China to Italy, and millions of
 testing kits arriving in the EU from China.  This time, let's not forget about
 pandemics, and that no country can possibly do this on their own.
 
-\newpage
 
 Appendix: The UK Precautionary Principle
 ========================================
