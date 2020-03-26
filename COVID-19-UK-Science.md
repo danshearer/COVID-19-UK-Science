@@ -1,11 +1,13 @@
 
 ![Social Distancing [(from Pixabay)](https://pixabay.com/illustrations/covid-19-coronavirus-4964287/)](./images/covid-19-distance.jpg)
 
-I am [Dan Shearer](https://www.linkedin.com/in/danshearer/).
+This paper is by [Dan Shearer](https://www.linkedin.com/in/danshearer/), developed 
+to assist in my own decision support, and others say they have found it useful. 
+All improvements and suggestions gladly received; send them to dan@shearer.org .
 
-This paper is being developed to assist in my own decision support, and others
-say they have found it useful. All improvements and suggestions gladly
-received; send them to dan@shearer.org .
+The paper lives [on github](https://github.com/danshearer/COVID-19-UK-Science) , where you 
+can read it online or [download the PDF](./COVID-19-UK-Science.pdf). If you are familiar
+with github feel free to send pull requests.
 
 Licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
 
