@@ -108,11 +108,13 @@ Detail of the UK Science
 ========================
 
 On Friday 20th March the UK government published, after much pressure, the
-[scientific advice](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)
-it is relying on to develop policy.  The contents do not appear to be advice
-that contradicts WHO advice, although the recommendations are mild and the
-information sparse. Journalists suggest it was requested after weeks of delay
-from a small and non-representative selection of experts who were not expecting the task.
+[scientific
+advice](https://www.gov.uk/government/groups/scientific-advisory-group-for-emergencies-sage-coronavirus-covid-19-response)
+it is relying on to develop policy.  The contents mostly do not appear to be
+advice that contradicts WHO advice, except as regards testing (by complete omission) and tracing (also by complete omission) and also in terms of not coming out of lockdown too soon. Although the recommendations are mild and
+the information sparse. Journalists suggest it was requested after weeks of
+delay from a small and non-representative selection of experts who were not
+expecting the task, and who did their best in the time available.
 
 The advice document [SPI-B insights on combined behavioural and social interventions (4 March
 2020)](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873726/04-spi-b-insights-on-combined-behavioural-and-social-interventions.pdf)
