@@ -74,16 +74,17 @@ management.
 while WHO and many countries are  very clear that coronavirus cannot be
 managed without it. All citizens need to be aware that at some point the UK government 
 will have to catch up with the world and initiate tracing. We can do that by recording 
-who we know who has it (there are several apps now, see Appendix A, although most of them are
+who we know who has it (there are several apps now, although most of them are
 tangential to tracing which should be a government function.) Childcare/school facilities 
 need to realise that their records will be important evidence in tracing contacts, and 
 also that the staff knowledge of each child's circumstances could also be vital (for example,
 who is living with a grandparent.)
 
-* The UK science advice appears to be advocating multiple waves of
-on-off-on-off suppression. If this becomes policy, and if the UK still does
-not undertake WHO-approved testing, then citizens should be very hesitant to
-engage with this. 
+* The UK science advice in [SPI-M-O: Consensus view on behavioural and social interventions](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873729/06-spi-m-o-consensus-view-on-behavioural-and-social-interventions.pdf)
+says their should be multiple waves of on-off-on-off suppression over a period
+of a year. If this becomes policy, and if the UK still does not undertake
+WHO-approved testing, then citizens should be very hesitant to engage with
+this. 
 
 * Door-to-door health checks are essential part of WHO advice. This can only be
 government-led, but in anticipation communities can be actively monitoring
