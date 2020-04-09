@@ -2,12 +2,12 @@
 ![Social Distancing [(from Pixabay)](https://pixabay.com/illustrations/covid-19-coronavirus-4964287/)](./images/covid-19-distance.jpg)
 
 This paper is by [Dan Shearer](https://www.linkedin.com/in/danshearer/), developed 
-to assist in my own decision support, and others say they have found it useful. 
+to assist in my own decision support, and others have found it useful. 
 All improvements and suggestions gladly received; send them to dan@shearer.org .
 
 The paper lives [on github](https://github.com/danshearer/COVID-19-UK-Science) , where you 
 can read it online or [download the PDF](./COVID-19-UK-Science.pdf). If you are familiar
-with github feel free to send pull requests.
+with github do feel free to send pull requests.
 
 Licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -15,23 +15,29 @@ Licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0
 Status of This Document
 =======================
 
-COVID-19 is changing fast, so this document may already be out of date.
+The COVID-19 landscape is changing fast, so this document may already be out of date.
 
-There are many claims that the UK is "not being driven by science" when it comes to
-practical actions. Since the science is in public and being reviewed by many
-teams worldwide, we can see if these claims stand up. On 25th March 2020, two 
-specialists published an opinion piece in The Guardian [The UK's coronavirus policy may sound scientific. It isn't](https://www.theguardian.com/commentisfree/2020/mar/25/uk-coronavirus-policy-scientific-dominic-cummings) and compares the UK government's approach to scientism:
+There are many claims that the UK is "not being driven by science" when it
+comes to practical actions. For example, on 25th March 2020, two specialists
+published an opinion piece in The Guardian [The UK's coronavirus policy may sound scientific. It isn't](https://www.theguardian.com/commentisfree/2020/mar/25/uk-coronavirus-policy-scientific-dominic-cummings)
+and compares the UK government's approach to scientism:
 
 > “scientism” – things that have the cosmetic attributes of science but without its rigour.
 
-Some of these claims relate to computer source code written by an academic at
-Imperial College a long time ago. Many more of these claims relate to the
-overall science approach.
+Since the science is in public and being reviewed by many teams worldwide, we
+can see if these claims are valid. 
+
+Some of these claims relate to large amounts of computer source code written by
+an academic at Imperial College a long time ago and hastily updated to become
+an authoritative but non-medical input to UK-level policy (and therefore
+exactly the policy of Public Health England, less so in each of Northern
+Ireland, Wales and England.) Many more of these claims of "this isn't science"
+relate to the overall science and medical approach.
 
 I deal with computer source code and analysing human and computing information.
 Science specialists worldwide have been clear and generous with their research
 results, so we can come to valid conclusions to the best of current knowledge.
-I have keyworkers and fragile people in my immediate circle, so I need to feel
+I have keyworkers and vulnerable people in my immediate circle, so I need to feel
 informed.
 
 Summary
@@ -44,64 +50,85 @@ with WHO guidelines, some is not. Some of the official UK government statements
 are out of line with its own scientific advice, and even further out of line
 with WHO.
 
-Most of the UK actions and advice are good and helpful, if late.  Catastrophic
-mistakes were made in the UK (and in most other countries) but they can't be
-fixed, and we have to deal with what we have. We are not Brasil and we are not
-the US, and even if our UK-level leadership is lacking, what we have is a fair
-chance from now on.
+Many of the UK actions and advice are good and helpful, if late.  Catastrophic
+mistakes were made in the UK but they can't be fixed, and we have to deal with
+what we have. We are not Brazil and we are not the US with their disasterous
+approaches to public policy, and even though our UK-level leadership is
+evidently lacking, we do have a fair chance from now on.  Alas we are also not
+Germany, South Korea or New Zealand, each of which implement WHO guidelines on
+best medical practice and none of which rely on any one collection of computer
+source code.
 
 Scotland is in a different situation to England it would seem, and if quick
 action is taken now perhaps Scotland can have a reduced impact. On 25th March
-2020 Scotland announced it was setting up a [Scotland-specific COVID-19 science
-advisory body](https://news.gov.scot/news/new-expert-group-to-study-spread-of-covid-19)
+2020 Scotland announced it was setting up a [Scotland-specific COVID-19 science advisory body](https://news.gov.scot/news/new-expert-group-to-study-spread-of-covid-19)
 with the Chief Medical Officer Dr Catherine Calderwood and Nicola Sturgeon
 quoted as saying at the press conference that different suppression rules may
-be needed in Scotland and different parts of Scotland. 
+be needed in Scotland and different parts of Scotland. On 6th April 2020 Dr
+Calderwood resigned. Perhaps her successor will be more willing to consider
+implementing WHO recommendations and research summaries, and more willing to
+mobilie the many trained contact-tracing staff throughout Scotland who are not
+reported as having been used yet at all.
+
+Every local council in England and Scotland (Wales and Northern Ireland
+unknown) employs thousands of contact tracing staff as part of their
+Environmental Health responsibilities. These officers have not been activated
+in either country (as of early April 2020) despite their core expertise being
+tracing outbreaks of measles and other infectious diseases. Any one local council 
+could have implemented this: COVID-19 is all about localised clusters.
 
 
-Action Items
-============
+Action Items relevant through March 2020
+========================================
 
-* The UK science advice says that children must practice social distancing
-immediately. Summarising across other parts of the advice this must mean
-especially including those children that remain in collective care because
-their parents are key workers. Keyworkers need to require their
-childcare/school facilities to practice distancing among the children. The UK
-government has not discussed this despite it being part of the COVID-19 cluster
-management. 
+* Keyworkers must require their childcare/school facilities to practice
+distancing among the children. The UK science advice says that children must
+practice social distancing immediately. Summarising across other parts of the
+advice this must mean especially including those children that remain in
+collective care because their parents are key workers. The UK government has
+not discussed this despite it being part of their own COVID-19 cluster
+management advice.
 
-* The UK science advice is completely silent on the topic of contact tracing,
+* Childcare/school facilities open for keyworker's children 
+need to ready their records to be used as evidence in tracing contacts, if and when 
+any of the UK nations implement WHO advice on contact tracing and surveillance testing.
+The staff knowledge of each child's circumstances could also be vital (for example,
+who is living with a grandparent.)
+The UK science advice is completely silent on the topic of contact tracing,
 while WHO and many countries are  very clear that coronavirus cannot be
-managed without it. All citizens need to be aware that at some point the UK government 
+managed without it. In addition the UK government explicitly stopped contact tracing as a deliberte policy All citizens need to be aware that at some point the UK government 
 will have to catch up with the world and initiate tracing. We can do that by recording 
 who we know who has it (there are several apps now, although most of them are
-tangential to tracing which should be a government function.) Childcare/school facilities 
-need to realise that their records will be important evidence in tracing contacts, and 
-also that the staff knowledge of each child's circumstances could also be vital (for example,
-who is living with a grandparent.)
+tangential to tracing, which can only be a government function.) 
 
-* The UK science advice in [SPI-M-O: Consensus view on behavioural and social interventions](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873729/06-spi-m-o-consensus-view-on-behavioural-and-social-interventions.pdf)
-says their should be multiple waves of on-off-on-off suppression over a period
-of a year. If this becomes policy, and if the UK still does not undertake
-WHO-approved testing, then citizens should be very hesitant to engage with
-this. 
+* UK citizens should be prepared to ignore any advice to lift lockdown without
+testing within their particular nation. The UK science advice in [SPI-M-O: Consensus view on behavioural and social interventions](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873729/06-spi-m-o-consensus-view-on-behavioural-and-social-interventions.pdf)
+says there should be multiple waves of on-off-on-off suppression over a period
+of a year. This has become de facto policy. If the nations of the UK still do
+not undertake WHO-approved testing and tracing, then according to the unanimous
+consensus of epidemologists as far as I have found, those nations will have
+years-long on/off COVID-19 outbreaks while other countries have successfully
+suppressed or even eradicated it.
 
-* Door-to-door health checks are essential part of WHO advice. This can only be
-government-led, but in anticipation communities can be actively monitoring
-their neighbours now in the absence of leadership on this issue.  This virus is
-very unlike the flu in how clustered it is, so friends can put together a list
-of people who should be tested when someone comes up positive.  Many
-communities are doing this informally: they should be recording the health of
-their neighbours if they can. The [Kings College App](https://covid.joinzoe.com/) partially helps with this, and there are at least two other tracking apps.
+* UK citizens should be already noting as best they can who they know of that
+has seemed to have COVID-19, in preparation for door-to-door health checks
+("community surveillance") which are an essential part of WHO advice. This can
+only be government-led, but in anticipation communities can be actively and
+informally sharing information with their neighbours now in the absence of
+leadership on this issue.  This virus is very unlike the flu in it's clustering
+nature, so friends can put together a very effective list of people who should
+be tested when someone they know has had COVID-19 symptoms or a diagnosis.  The
+[Kings College App](https://covid.joinzoe.com/) partially helps with this, and
+there are at least two other tracking apps.
 
 * For computing and robotics/mechanics people, there are several actions to
-consider, some of them quite simple. This is a respiratory disease and carers
+consider listed further down, some of them quite simple. This is a respiratory disease and carers
 need respiratory protection while some patients need respiratory support.
 
-* As an action for legal or political people, and directly arising from the
-science, there is an outline of the legal import of the Precautionary
-Principle and decisions the UK Parliament is about to make but which have been
-paused for COVID-19.
+* As an important action for legal or political people, and directly arising
+from the science, the Appendix to this document has an outline of the legal import of the
+Precautionary Principle and decisions the UK Parliament is about to make but
+which have been paused for COVID-19.
 
 
 Detail of the UK Science
