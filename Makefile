@@ -16,6 +16,8 @@ name := COVID-19-UK-Science
 # Temporary target directory for Markdown TOC
 tmptoc := /tmp/$(name)-toc.md
 
+all: pdf gfm
+
 # Recipe for PDF
 pdf: $(name)-header-latex.md  $(name).md 
 	pandoc --pdf-engine=xelatex -V linkcolor=cyan $^ -o $(name).pdf

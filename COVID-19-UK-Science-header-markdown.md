@@ -1,9 +1,9 @@
 # Actions Re Science & COVID-20 in the UK 
 
-version 1.0
+version 1.1
 
 Dan Shearer
-7th-20th March 2020, minor updates 25 March 2020
+7th-20th March 2020, minor updates 25 March 2020, 9th April 2020
 
 > What actions should we take when we are getting conflicting advice from
 > seemingly-authoritative sources? Citizens are planning their lives, and since
