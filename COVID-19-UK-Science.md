@@ -354,30 +354,36 @@ Appendix: The UK Precautionary Principle
 ========================================
 
 Are you into campaigning or influencing how the UK runs?  When the UK's various
-parliaments return after COVID-19, the Precautionary Principle will be one of
-the things they need to continue legislating on, especially the UK parliament. 
+parliaments return after COVID-19 - or perhaps beforehand, given the efforts being 
+made to keep democracy ticking - the Precautionary Principle will be one of
+the things they need to continue legislating on, all four parliaments and assemblies.
 
-Current political thinking in England is that the Precautionary Principle is a
-bad idea. There is also a lot of ignorance around it. Since the PP, and its
-absence, is very much at the heart of the UK's COVID-19 response, perhaps MPs
-can be persuaded to have a different view. 
+It is common to hear in political thinking in England that the Precautionary
+Principle is a bad idea. This seems to also be associated with ignorance around
+it. Since the PP, and its absence, is very much at the heart of the UK's
+COVID-19 response, perhaps MPs can be persuaded to have a different view. 
+
+Draft Law and Guidance is more circumspect, in that it does not explicitly dispense with 
+the PP. However in embedding economic progress into environmental protections the UK
+government seems to setting the scene for weakening the PP by means of interpretation.
 
 What is the PP?
 ---------------
 
-In 2018 the British Academy wrote [Legal Aspects of the Precautionary Principle](https://www.thebritishacademy.ac.uk/publications/europe-british-academy-brexit-briefing-legal-aspects-precautionary-principle):
+In 2018 the British Academy wrote in [Legal Aspects of the Precautionary Principle](https://www.thebritishacademy.ac.uk/publications/europe-british-academy-brexit-briefing-legal-aspects-precautionary-principle):
 
 > The precautionary principle is an environmental principle enshrined in the
 > Treaty on the Functioning of the European Union. Where there is scientific
-> uncertainty about risks to human health or the environment, the precautionary
+> uncertainty about risks to *human health or the environment*, the precautionary
 > principle allows decision-makers to adopt protective measures without having
 > to wait until the reality of those risks become fully apparent.
 
 The Precautionary Principle is a feature of law that I and others have worked
 with for years, and it is no secret that those leading the Brexit charge
-disliked it intensely, and the United States rejects it outright. On 31st
-January 2020, a well-known writer on economics topics produced a summary of these sorts of
-views [in a Spiked article](https://www.spiked-online.com/2020/01/31/brexit-its-time-to-seize-the-day/):
+disliked it intensely, and the United States rejects it outright at the federal
+level and in many court rulings. On 31st January 2020, a well-known writer on
+economics topics produced a summary of these sorts of views 
+[in a Spiked article](https://www.spiked-online.com/2020/01/31/brexit-its-time-to-seize-the-day/):
 
 > The British government should adopt a similar independent approach in setting
 > aside the precautionary principle deployed by the European Commission. This
@@ -386,12 +392,86 @@ views [in a Spiked article](https://www.spiked-online.com/2020/01/31/brexit-its-
 > back innovation, not least in areas such as genomics and new materials, and
 > leads to banning certain products.
 
-There isn't much point in critiquing the article because there is more non-fact
-than substance, but it feels broadly representative of the views of people who
-dislike the PP.
+This article feels broadly representative of the views of people who dislike
+the PP, please let me know if this is not the case.
 
-There is a lot more work to be done, and COVID-19 will be endlessly discussed.
-But the PP should be a central part of this. 
+What is the Status of the Precautionary Principle in the UK?
+------------------------------------------------------------
+
+The PP applies across large amounts of UK law, but it starts with environmental
+and health protection. There is a draft [Environment (Principles and Governance) Bill](https://services.parliament.uk/bills/2019-21/environment.html) but
+despite three years of discussion it has not progressed at all. Various hopeful
+statements were made that the Bill would become law in 2020, but there is
+virtually no chance of this now happening since the committee is not sitting
+and the Bill hasn't even reached the first stage yet. 
+
+In the text of the first Draft Bill, and in the publication [Scrutiny of the Draft Environment (Principles and Governance) Bill](https://publications.parliament.uk/pa/cm201719/cmselect/cmenvaud/1951/195109.htm)
+The Precautionary Principle is acknowledged as one of the four EU principles
+governing environmental law, but then it is clear that this Bill seeks to
+destroy the concept of any binding principles:
+
+> ...principles have become “creatures of policy” and not law which undermines
+> their legal influence “to the greatest extent possible, despite their
+> statutory foothold
+
+and
+
+> They are to be defined and expanded upon by the Secretary of State. They are
+> only relevant to policy formation and not decision making. They do not apply
+> in any direct way to anything other than central Government and so on and so
+> on
+
+This makes for grim reading, and according to this detail, is the exact opposite of
+the UK government spin of "improving on our already-strong environmental protections".
+
+Further evidence is in the 10th March 2020 document [Evironmental Governence Factsheet](https://www.gov.uk/government/publications/environment-bill-2020/10-march-2020-environmental-governance-factsheet-parts-1-and-2)
+was published, in which the four EU principles of environmental protection are
+acknowledged just as in the draft Bill, but also it makes this giant
+can-kicking loophole statement:
+
+> The Bill requires the Environment Secretary to publish an environmental
+> principles policy statement, setting out how these principles are to be
+> interpreted and proportionately applied by ministers in order to deliver
+> their objective of contributing to the improvement of environmental
+> protection and to sustainable development.
+
+In short, not only does the Bill water down the idea of any principles, the
+Government will not even issue a policy statement about the most basic
+principles. It is not looking good for the PP.
+
+What is Devolved?
+-----------------
+
+In the section [Collaboration with Devolved Administrations](https://publications.parliament.uk/pa/cm201719/cmselect/cmenvaud/1951/195109.htm)
+the scruitiny document says:
+
+> Environment is a devolved matter, subject to a small number of areas that are
+> reserved...  the OEP could exercise functions more widely across the UK
+> “subject to the ongoing framework discussions with the devolved
+> administrations”.
+
+This is the topic of the "power grab" discussions, where devolved
+administrations are unhappy that Westminster has seized control of things
+handled within EU frameworks. 
+
+It seems clear that Westminster wants to force the all parts of the UK to abide
+within policy directions set in London, undermining the ability of the devolved
+areas to have their own insistence on principles including the PP. 
+
+This is a very active area of discussion, and it is far from over yet. There is
+a complex interplay of rights, jurisdiction, responsibilities and interests
+that is completely unclear. 
+
+
+What Next?
+----------
+
+COVID-19 will be endlessly discussed, in terms of risk, response, principles
+and more.  The PP should explicitly be a central part of this. We know what the
+PP is, and it has been a part of UK law and court decisions for decades. The
+citizens of the UK would greatly benefit if the term "precautionary principle"
+was to become in common usage. Many in the UK seem to feel a lot more cautious
+than the Westminster government has chosen to be in its COVID-19 response.
 
 Health, environment, climate change, quality of life and fun - these are all
 intimately linked and need both bold innovations and also the Precautionary Principle.  
