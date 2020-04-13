@@ -495,22 +495,24 @@ this on their own.
 
 # Appendix: The UK Precautionary Principle
 
-Are you into campaigning or influencing how the UK runs? When the UK's
-various parliaments return after COVID-19 - or perhaps beforehand, given
-the efforts being made to keep democracy ticking - the Precautionary
-Principle will be one of the things they need to continue legislating
-on, all four parliaments and assemblies.
+Work is needed to highlight the role of the Precautionary Principle in the poor
+response to COVID-19 in the UK, across all 4 health organisations and legal
+jurisdictions.
+
+When the UK's various parliaments return after COVID-19 - or perhaps
+beforehand, given the efforts being made to keep democracy ticking - the
+Precautionary Principle will be one of the things they need to continue
+legislating on, in all four parliaments and assemblies.
 
 It is common to hear in political thinking in England that the
 Precautionary Principle is a bad idea. This seems to also be associated
 with ignorance around it. Since the PP, and its absence, is very much at
-the heart of the UK's COVID-19 response, perhaps MPs can be persuaded to
+the heart of the UK's COVID-19 response, politicians need to be persuaded to
 have a different view.
 
-Draft Law and Guidance is more circumspect, in that it does not
-explicitly dispense with the PP. However in embedding economic progress
-into environmental protections the UK government seems to setting the
-scene for weakening the PP by means of interpretation.
+So far UK-level Draft Law and Guidance is more circumspect, in that it does not
+explicitly dispense with the PP. However the UK government seems to setting the
+scene for dispensing with PP in a low-key way.
 
 ## What is the PP?
 
@@ -524,12 +526,13 @@ Principle](https://www.thebritishacademy.ac.uk/publications/europe-british-acade
 > adopt protective measures without having to wait until the reality of
 > those risks become fully apparent.
 
+(emphasis added.)
+
 The Precautionary Principle is a feature of law that I and others have
 worked with for years, and it is no secret that those leading the Brexit
 charge disliked it intensely, and the United States rejects it outright
-at the federal level and in many court rulings. On 31st January 2020, a
-well-known writer on economics topics produced a summary of these sorts
-of views [in a Spiked
+at the federal level and in court rulings. An article representative of these
+sorts of emotive views was published on 31st January 2020 [in a Spiked
 article](https://www.spiked-online.com/2020/01/31/brexit-its-time-to-seize-the-day/):
 
 > The British government should adopt a similar independent approach in
@@ -540,8 +543,8 @@ article](https://www.spiked-online.com/2020/01/31/brexit-its-time-to-seize-the-d
 > such as genomics and new materials, and leads to banning certain
 > products.
 
-This article feels broadly representative of the views of people who
-dislike the PP, please let me know if this is not the case.
+This article encapsulates the popular idea in London that no evidence is needed
+when ignoring scientific advice.
 
 ## What is the Status of the Precautionary Principle in the UK?
 
@@ -551,8 +554,8 @@ environmental and health protection. There is a draft [Environment
 Bill](https://services.parliament.uk/bills/2019-21/environment.html) but
 despite three years of discussion it has not progressed at all. Various
 hopeful statements were made that the Bill would become law in 2020, but
-there is virtually no chance of this now happening since the committee
-is not sitting and the Bill hasn't even reached the first stage yet.
+there is little chance of this now happening since the committee
+is not sitting and the Bill hasn't reached the first stage.
 
 In the text of the first Draft Bill, and in the publication [Scrutiny of
 the Draft Environment (Principles and Governance)
@@ -572,9 +575,8 @@ and
 > They do not apply in any direct way to anything other than central
 > Government and so on and so on
 
-This makes for grim reading, and according to this detail, is the exact
-opposite of the UK government spin of "improving on our already-strong
-environmental protections".
+This makes for grim reading and seems the exact opposite of the UK government
+spin of "improving on our already-strong environmental protections".
 
 Further evidence is in the 10th March 2020 document [Evironmental
 Governence
@@ -596,8 +598,7 @@ basic principles. It is not looking good for the PP.
 
 ## What is Devolved?
 
-In the section [Collaboration with Devolved
-Administrations](https://publications.parliament.uk/pa/cm201719/cmselect/cmenvaud/1951/195109.htm)
+In the section [Collaboration with Devolved Administrations](https://publications.parliament.uk/pa/cm201719/cmselect/cmenvaud/1951/195109.htm)
 the scruitiny document says:
 
 > Environment is a devolved matter, subject to a small number of areas
@@ -605,14 +606,12 @@ the scruitiny document says:
 > across the UK “subject to the ongoing framework discussions with the
 > devolved administrations”.
 
-This is the topic of the "power grab" discussions, where devolved
-administrations are unhappy that Westminster has seized control of
-things handled within EU frameworks.
-
-It seems clear that Westminster wants to force the all parts of the UK
-to abide within policy directions set in London, undermining the ability
-of the devolved areas to have their own insistence on principles
-including the PP.
+This is the topic of the "Brexit power grab" discussions, where devolved
+administrations are unhappy that Westminster has seized control of things
+previously handled within EU frameworks. This power grab, if successful, will
+see Westminster able to remove PP from many aspects of the lives of the 10.7
+million UK citizens who do not live in England. PP is not the only principle
+at stake, but it is pervasive - and right at the heart of COVID-19.
 
 This is a very active area of discussion, and it is far from over yet.
 There is a complex interplay of rights, jurisdiction, responsibilities
