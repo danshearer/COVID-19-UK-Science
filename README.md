@@ -502,7 +502,8 @@ jurisdictions.
 When the UK's various parliaments return after COVID-19 - or perhaps
 beforehand, given the efforts being made to keep democracy ticking - the
 Precautionary Principle will be one of the things they need to continue
-legislating on, in all four parliaments and assemblies.
+legislating on because it is part of Brexit, in all four parliaments and
+assemblies.
 
 It is common to hear in political thinking in England that the
 Precautionary Principle is a bad idea. This seems to also be associated
