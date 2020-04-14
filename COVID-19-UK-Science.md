@@ -3,11 +3,11 @@
 
 This paper is by [Dan Shearer](https://www.linkedin.com/in/danshearer/), developed 
 to assist in my own decision support, and others have found it useful. 
-All improvements and suggestions gladly received; send them to dan@shearer.org .
+Please send corrections and suggestions to dan@shearer.org .
 
 The paper lives [on github](https://github.com/danshearer/COVID-19-UK-Science) , where you 
 can read it online or [download the PDF](./COVID-19-UK-Science.pdf). If you are familiar
-with github do feel free to send pull requests.
+with github it'd be great to receive pull requests.
 
 Licensed under [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -24,26 +24,33 @@ and compares the UK government's approach to scientism:
 
 > “scientism” – things that have the cosmetic attributes of science but without its rigour.
 
-Since the science is in public and being reviewed by many teams worldwide, we
-can see if these claims are valid. 
+This was no surprise. An English medical specialist 
+[said this as early as 15th March 2020](https://www.theguardian.com/commentisfree/2020/mar/15/uk-covid-19-strategy-questions-unanswered-coronavirus-outbreak).
+
+Since the science is in public and is being constantly reviewed by many teams
+worldwide, we can see if these claims are valid. I think they are. As of April
+2020, it appears certain there was and continues to be a UK-level decision for
+England to ignore medical advice in favour of computer-generated projections
+usually used after or to supplement medical advice. This has also somewhat
+affected Scotland, although Scotland has not entirely ignored WHO.
 
 Some of these claims relate to large amounts of computer source code written by
-an academic at Imperial College a long time ago and hastily updated to become
-an authoritative but non-medical input to UK-level policy (and therefore
-exactly the policy of Public Health England, less so in each of Northern
-Ireland, Wales and England.) Many more of these claims of "this isn't science"
-relate to the overall science and medical approach.
+an academic at Imperial College more than a decade ago and hastily updated to
+become an authoritative but non-medical input to UK-level policy. Promises were
+made that the source code would be published on github just like this document,
+but nothing has eventuated yet.  In addition many more of these claims of "this
+isn't science" relate to the overall science and medical approach.
 
-I deal with computer source code and analysing human and computing information.
-Science specialists worldwide have been clear and generous with their research
-results, so we can come to valid conclusions to the best of current knowledge.
-I have keyworkers and vulnerable people in my immediate circle, so I need to feel
-informed.
+I deal with computer source code and analysing how it impacts human and
+computing information.  My motivation for this paper is that I have keyworkers
+and vulnerable people in my immediate circle, and unlike countries of
+comparable size such as Germany and South Korea the UK does not have a strong
+history of democratic accountability or competent healthcare execution.
 
 Summary
 =======
 
-This document relates to just a handful of points among the many hundreds of
+This document mostly relates to a handful of points among the many hundreds of
 points in the published UK government scientific coronavirus advice, as
 identified by UK epidemiologists. Most of the UK scientific advice is in line
 with WHO guidelines, some is not. Some of the official UK government statements
@@ -51,35 +58,35 @@ are out of line with its own scientific advice, and even further out of line
 with WHO.
 
 Many of the UK actions and advice are good and helpful, if late.  Catastrophic
-mistakes were made in the UK but they can't be fixed, and we have to deal with
-what we have. We are not Brazil and we are not the US with their disasterous
-approaches to public policy, and even though our UK-level leadership is
-evidently lacking, we do have a fair chance from now on.  Alas we are also not
-Germany, South Korea or New Zealand, each of which implement WHO guidelines on
-best medical practice and none of which rely on any one collection of computer
-source code.
+mistakes were made in the UK which can be mitigated in part even now.  The UK
+is not Brazil or the US with their disasterous approaches to public policy, and
+with poor UK-level leadership we do have a fair chance from now on.
 
 Scotland is in a different situation to England it would seem, and if quick
 action is taken now perhaps Scotland can have a reduced impact. On 25th March
 2020 Scotland announced it was setting up a [Scotland-specific COVID-19 science advisory body](https://news.gov.scot/news/new-expert-group-to-study-spread-of-covid-19)
-with the Chief Medical Officer Dr Catherine Calderwood and Nicola Sturgeon
-quoted as saying at the press conference that different suppression rules may
-be needed in Scotland and different parts of Scotland. On 6th April 2020 Dr
-Calderwood resigned. Perhaps her successor will be more willing to consider
-implementing WHO recommendations and research summaries, and more willing to
-mobilie the many trained contact-tracing staff throughout Scotland who are not
-reported as having been used yet at all.
+with the (now-sacked) Chief Medical Officer Dr Catherine Calderwood and First
+Minister Nicola Sturgeon quoted as saying at the press conference that
+different suppression rules may be needed in Scotland and different parts of
+Scotland. On 6th April 2020 Dr Calderwood resigned. Perhaps her successor will
+be more willing to consider implementing WHO recommendations and research
+summaries, and more willing to mobilie the many trained contact-tracing staff
+throughout Scotland who are not reported as having been used yet at all.
 
 Every local council in England and Scotland (Wales and Northern Ireland
 unknown) employs thousands of contact tracing staff as part of their
 Environmental Health responsibilities. These officers have not been activated
 in either country (as of early April 2020) despite their core expertise being
 tracing outbreaks of measles and other infectious diseases. Any one local council 
-could have implemented this: COVID-19 is all about localised clusters.
+could have implemented this: COVID-19 is all about localised clusters. That is not a 
+failing of UK-level government, and it impacts on us locally. An app cannot make up 
+for this skill.
 
 
 Action Items relevant through March 2020
 ========================================
+
+(need to revisit this section now we are in April)
 
 * Keyworkers must require their childcare/school facilities to practice
 distancing among the children. The UK science advice says that children must
@@ -224,35 +231,46 @@ The Imperial College modelling seems to have been critically important to turn a
 > and extend the code to allow others to use without the multiple days training it would 
 > currently require (and which we don’t have time to give)...
 
+As of 14th April 2020 there has been no sign of this, and there is no excuse
+for a codebase as critical as this to not yet be published, particularly since
+the original unmodified code as used for UK (and apparently US) decisions needs
+to be published. Common reasons for not publishing code that was never intended
+for publication include embarrassment by the author, and highlighting of
+errors, neither of which matter in this case. This failure to publish is
+exceptionally unprofessional. Life and death decisions affecting me and those
+around me were made on the basis of this code and according to public
+statements in April 2020, still are.
+
 There is no doubt that Neil Fergusson is an authoritative voice, but to those
-of us who live in a world that often has "thousands of lines of undocumented C
-code", this is extremely worrying. From this description, the Computer Science
-fact is that this code can only in its current state embody the thinking, both
-correct and incorrect, of a single individual. To his credit Neil is seemingly
-putting his code on github. But in the meantime we are left wondering why the
-UK government did not employ the use of other large pandemic modelling code bases including:
+of us who live in a world that routinely has "thousands of lines of undocumented C
+code", there is no excuse. 
+
+The UK government had ample choice of additional pandemic modelling code bases
+besides those of Neil Fergusson including:
 
 * [EPIMODEL on github](https://github.com/statnet/EpiModel), written by 9 people and kept current with models for many diseases and mathematical approaches
 * [ringbp on github]( https://github.com/cmmid/ringbp), as described in Lancet on the 28th February: [Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/fulltext)
 
 There are just two of the most obvious of many projects. It takes a medical and
-mathematical specialist to work out which ones are best to use, but it also
-requires competent computer science to implement what is chosen. The approach
-chosen by the UK government was definitely not best practice. 
+mathematical specialist to work out which ones are best to use, and the UK government 
+had access to plenty of those as well - some of the best epidemology departments anywhere 
+are in UK universities and their staff have already formed collaborations to develop
+best-pratice policy advice.
 
-Pandemic specialists have commented on this C source code revelation as
-explaining why the the UK science advice seems unusual. A flu pandemic has very
-different behaviour to COVID-19. 
+We can say with confidence the approach chosen by the UK government was
+definitely not best practice.
 
-I am watching developments on this codebase. Ideally the outcome would not be
-just to see it published and improved, but other codebases involved
-immediately.
+To further illustrate how important a multiplicity of science voices are, on 25th March 2020 Sunepta Gupta of the [Oxford Evolutionary Ecology of Infectious Disease](https://www.eeid.ox.ac.uk/) was widely reported as stating in article in the Financial Times the unlikely claim that "[Coronavirus may have infected half of UK population](https://www.ft.com/content/5ff6469a-6dd8-11ea-89df-41bea055720b)" however:
 
-To further illustrate how important a multiplicity of science voices are, on 25th March 2020 Sunepta Gupta of the [Oxford Evolutionary Ecology of Infectious Disease](https://www.eeid.ox.ac.uk/) was widely published starting in an article in the Financial Times that "[Coronavirus may have infected half of UK population](https://www.ft.com/content/5ff6469a-6dd8-11ea-89df-41bea055720b)" however:
-
-* Comentators most do not seem to have noticed that this is, once again, a pile of computer code without population testing to confirm or deny the mathematics, or to inform an evolution of the mathematics, as Sunepta Gupta herself states, and
+* Comentators most do not seem to have noticed that this is, once again, a pile of computer code without population testing to confirm or deny the mathematics, or to inform an evolution of the mathematics, as Sunepta Gupta herself acknowledges, and
 * Sunepta draws into question about the reliance of the UK government on a single model from Imperial College, and supports the evidence so far that not a single other specialist epidimology department in the UK was contacted by the UK government, which in turn supports the notion of "sciencism" determining UK policy.
 
+This demonstrates that computer modelling can be very helpful to show the range
+of possibilities, and very unhelpful if it is not connected to medical evidence
+from the real world. It seems from medical documentation published from Austria
+and other countries that have followed WHO testing advice that the figure is
+closer to 2% than 50%, and doubtless Sunepta Gupta has adjusted her modelling
+accordingly.
 
 
 Open Source Action Items
