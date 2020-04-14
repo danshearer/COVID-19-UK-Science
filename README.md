@@ -1,8 +1,8 @@
 # Actions Re Science & COVID-20 in the UK
 
-version 1.2
+version 1.3
 
-Dan Shearer 7th-20th March 2020, minor updates through till 11th April
+Dan Shearer 7th-20th March 2020, minor updates through till 14th April
 2020
 
 > What actions should we take when we are getting conflicting advice
