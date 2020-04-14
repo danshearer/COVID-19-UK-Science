@@ -57,8 +57,9 @@ useful. Please send corrections and suggestions to <dan@shearer.org> .
 
 The paper lives [on
 github](https://github.com/danshearer/COVID-19-UK-Science) , where you
-can read it online or [download the PDF](./COVID-19-UK-Science.pdf). If
-you are familiar with github it'd be great to receive pull requests.
+can read it online or [download the
+PDF](https://github.com/danshearer/COVID-19-UK-Science/raw/master/COVID-19-UK-Science.pdf).
+If you are familiar with github it'd be great to receive pull requests.
 
 Licensed under [Creative
 Commons](https://creativecommons.org/licenses/by-sa/4.0/)
