@@ -7,8 +7,8 @@ Dan Shearer 7th-20th March 2020, minor updates through till 14th April
 
 > What actions should we take when we are getting conflicting advice
 > from seemingly-authoritative sources? On 20th March 2020 the UK
-> government published its science advice in non-technical form we can
-> take advantage of the intense international review. This document
+> government published its science advice in non-technical form, so we
+> can take advantage of the intense international review. This document
 > focusses on just a few of the hundreds of points in the UK scientific
 > evidence, including the ones to do with my speciality. The UK
 > scientific evidence does not always agree with what the UK Prime
@@ -36,6 +36,8 @@ Dan Shearer 7th-20th March 2020, minor updates through till 14th April
   - [Critiques, and Imperial College
     Modelling](#critiques-and-imperial-college-modelling)
   - [Open Source Action Items](#open-source-action-items)
+      - [Context - The Complexity of This
+        Problem](#context---the-complexity-of-this-problem)
   - [Agreement In Science-based
     Opinions](#agreement-in-science-based-opinions)
       - [Who Can I Believe?](#who-can-i-believe)
@@ -53,21 +55,25 @@ Pixabay)](https://pixabay.com/illustrations/covid-19-coronavirus-4964287/)](./im
 
 This paper is by [Dan Shearer](https://www.linkedin.com/in/danshearer/),
 developed to assist in my own decision support, and others have found it
-useful. Please send corrections and suggestions to <dan@shearer.org> .
+useful. Corrections and suggestions to <dan@shearer.org> received with
+thanks.
 
 The paper lives [on
 github](https://github.com/danshearer/COVID-19-UK-Science) , where you
 can read it online or [download the
 PDF](https://github.com/danshearer/COVID-19-UK-Science/raw/master/COVID-19-UK-Science.pdf).
 If you are familiar with github it'd be great to receive pull requests.
+If you are not, gihub is a system where the history of all changes is
+documented in public and can always be seen and compared.
 
-Licensed under [Creative
-Commons](https://creativecommons.org/licenses/by-sa/4.0/)
+Licensed under the [Creative
+Commons](https://creativecommons.org/licenses/by-sa/4.0/), which means
+you can reuse it however you like, with attribution.
 
 # Status of This Document
 
-The COVID-19 landscape is changing fast, so this document may already be
-out of date.
+The COVID-19 landscape is changing fast, so this document is always out
+of date.
 
 There are many claims that the UK is "not being driven by science" when
 it comes to practical actions. For example, on 25th March 2020, two
@@ -103,8 +109,10 @@ I deal with computer source code and analysing how it impacts human and
 computing information. My motivation for this paper is that I have
 keyworkers and vulnerable people in my immediate circle, and unlike
 countries of comparable size such as Germany and South Korea the UK does
-not have a strong history of democratic accountability or competent
-healthcare execution.
+not have nearly such a strong history of democratic accountability or
+competent healthcare execution. And unlike small and poor countries such
+as Greece and Rwanda who have also done well, the UK did not immediately
+follow best practice advice.
 
 # Summary
 
@@ -149,14 +157,17 @@ skill.
 
 (need to revisit this section now we are in April)
 
-  - Keyworkers must require their childcare/school facilities to
-    practice distancing among the children. The UK science advice says
-    that children must practice social distancing immediately.
-    Summarising across other parts of the advice this must mean
-    especially including those children that remain in collective care
-    because their parents are key workers. The UK government has not
-    discussed this despite it being part of their own COVID-19 cluster
-    management advice.
+  - Keyworkers who qualify for childcare places should ask their
+    childcare/school facilities about social distancing policies for the
+    children. The UK science advice says that children must practice
+    social distancing immediately. Summarising across other parts of the
+    advice this must mean especially including those children that
+    remain in collective care because their parents are key workers,
+    many of whom are at high risk. The UK government has not discussed
+    this despite it being part of their own COVID-19 cluster management
+    advice. There is some evidence that social distancing compromises
+    work best for children, who will suffer whichever decisions are
+    made.
 
   - Childcare/school facilities open for keyworker's children need to
     ready their records to be used as evidence in tracing contacts, if
@@ -167,7 +178,7 @@ skill.
     silent on the topic of contact tracing, while WHO and many countries
     are  very clear that coronavirus cannot be managed without it. In
     addition the UK government explicitly stopped contact tracing as a
-    deliberte policy All citizens need to be aware that at some point
+    deliberate policy. All citizens need to be aware that at some point
     the UK government will have to catch up with the world and initiate
     tracing. We can do that by recording who we know who has it (there
     are several apps now, although most of them are tangential to
@@ -198,10 +209,11 @@ skill.
     partially helps with this, and there are at least two other tracking
     apps.
 
-  - For computing and robotics/mechanics people, there are several
-    actions to consider listed further down, some of them quite simple.
-    This is a respiratory disease and carers need respiratory protection
-    while some patients need respiratory support.
+  - For those with computing and robotics/mechanics skills and
+    inclination, there are several actions to consider listed further
+    down, some of them quite simple. This is a respiratory disease and
+    carers need respiratory protection while some patients need
+    respiratory support.
 
   - As an important action for legal or political people, and directly
     arising from the science, the Appendix to this document has an
@@ -395,10 +407,23 @@ and doubtless Sunepta Gupta has adjusted her modelling accordingly.
 
 # Open Source Action Items
 
-In the [Vox
+## Context - The Complexity of This Problem
+
+There has been a great deal of activitiy in open source communities on
+many projects related to COVID-19. Many of the 3D printing projects for
+PPE and some of the app-creation efforts are addressing problems
+thoroughly. However some of projects for creating medical devices are
+beyond ambitious technically and bordering on providing false hope. The
+open source community needs to avoid repeating the mistakes of the UK
+government in thinking computing expertise can make up for lack of
+medical expertise.
+
+As a comparison, consider the medical approaches China brought to bear
+in Wuhan starting from zero knowledge. In the [Vox
 interview](https://www.vox.com/2020/3/2/21161067/coronavirus-covid19-china)
 discussed above, Professor Aylward describes the Chinese approach as
-both innovative and advanced. He said:
+both innovative and advanced (this is entirely beside the point of
+China's initial prevarication on their COVID-19 response). Aylward said:
 
 > they find cases fast, get them isolated, in treatment, and supported
 > early. Second thing they do is ventilate dozens in the average
@@ -421,12 +446,18 @@ consensus of how best to react.
 
 To a technologist, his comments are also a very pointed reminder of the
 daunting complexity of the software and hardware required at scale.
-Ventilators are difficult, and ECMO machines much more so. Nevertheless,
-we need them, and people are dying. The Italian healthcare system is
-excellent (for example, more beds than in the UK system) and yet people
-are dying. Many African healthcare systems are nothing like as good.
+Ventilators are difficult machines to make, and ECMO machines much more
+so. Nevertheless, we need them, and people are dying. The Italian
+healthcare system is excellent (for example, more beds than in the UK
+system) and yet many people are dying. Many African healthcare systems
+are nothing like as good. COVID-19 has many presentations and degrees of
+symptoms, and medical devices need to be able to be adjusted for the
+particular COVID-19 response needed. Regulatory approval is hard to get
+because it is very easy for a machine to blow too hard into damaged
+lungs, to pick a simple example.
 
-There are three levels of pulmunary assistance that can be provided:
+The technical facts for open source communities are that there are three
+levels of pulmunary assistance that can be provided:
 
   - Powered Air Purifying Respirator (PAPR) - for carers, not patients\!
     As many have pointed out, most well-meaning ventilator build
@@ -441,15 +472,20 @@ There are three levels of pulmunary assistance that can be provided:
     developers and doctors in Spain and Italy are not ones you would
     choose to be used on you unless you are about to die. More advanced
     designs are seemingly ready in Germany and the Czech Republic, with
-    backing from other EU countries. The key is testing.
+    backing from other EU countries. The key is testing of these
+    proposed devices and that takes time. (it is helpful to remember
+    that Germany went into this in the positions that nearly all of
+    their very large number of ICU beds already had a ventilator.)
   - ECMO machines are just too advanced for the UK to consider at scale.
     A recent parliamentary question revealed that in all of England
     there are just 15 ECMO ICU beds. Building an ECMO is very complex,
     although German manufacturers are increasing production as fast as
-    they can. Testing an ECMO is difficult.
+    they can. Testing an ECMO is difficult, and there just isn't a way
+    to suddenly make thousands of ECMOs appear in the UK. That means
+    people will be dying due to lack of ECMO.
 
-Apart from building PAPRs (which seems quite obvious thing to do) there
-is scope for code:
+For those with the skills, apart from building PAPRs (which seems quite
+an obvious thing to do) there is scope for code:
 
   - analytics from ventilators and ECMOs needs to be gathered as a
     priority national resource. Noninvasive logging into an open form in
@@ -467,10 +503,11 @@ scientists who disagree so far on one aspect or another of this unknown
 virus.
 
 The following two pieces represent hugely differing views from eminent
-scientists and mathematicians. Unlike the UK science advice, a
-multiplicity of views is important for solid science to emerge. England
-has had regular events and intensive study on pandemic responses in
-places such as the [Cambridge Centre for the Study of Existential
+scientists and mathematicians, which nevertheless agree on all
+principles. Unlike the UK science advice, a multiplicity of views is
+important for solid science to emerge. England has had regular events
+and intensive study on pandemic responses in places such as the
+[Cambridge Centre for the Study of Existential
 Risk](https://www.cser.ac.uk/) and their research on *Global
 Catastrophic Biological Risks* , and any of these could have been called
 on.

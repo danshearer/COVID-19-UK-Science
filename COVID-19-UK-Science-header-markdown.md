@@ -7,7 +7,7 @@ Dan Shearer
 
 > What actions should we take when we are getting conflicting advice
 > from seemingly-authoritative sources? On 20th March 2020 the UK government
-> published its science advice in non-technical form we can take advantage of
+> published its science advice in non-technical form, so we can take advantage of
 > the intense international review. This document focusses on just a few of the
 > hundreds of points in the UK scientific evidence, including the ones to do
 > with my speciality. The UK scientific evidence does not always agree with
