@@ -37,12 +37,15 @@ England to ignore medical advice in favour of computer-generated projections
 usually used after or to supplement medical advice. This has also somewhat
 affected Scotland, although Scotland has not entirely ignored WHO.
 
-Some of these claims relate to large amounts of computer source code written by
-an academic at Imperial College more than a decade ago and hastily updated to
-become an authoritative but non-medical input to UK-level policy. Promises were
-made that the source code would be published on github just like this document,
-but nothing has eventuated yet.  In addition many more of these claims of "this
-isn't science" relate to the overall science and medical approach.
+The claims of "this isn't science" relate to the overall science and medical
+approach. I definitely extend this to the large amounts of computer source code
+written by an academic at Imperial College more than a decade ago, because it
+became become an authoritative non-medical input to UK-level policy. Promises
+were made that the source code would be published on github just like this
+document, but have not been delivered. That is also scientism - to claim
+mystical properties for computer code that nobody can see. It is trivial to
+publish the code as it existed at the time it was used to make decisions, and
+failure to do so is wrong.
 
 I deal with computer source code and analysing how it impacts human and
 computing information.  My motivation for this paper is that I have keyworkers
@@ -192,7 +195,9 @@ Critiques, and Imperial College Modelling
 =========================================
 
 Professor Bruce Aylward of WHO has been through many pandemics, and lead the
-WHO COVID-19 mission in China and given many recent interviews. In his interviews he invariably makes points that conflict with some of the UK science advice, especially:
+WHO COVID-19 investigative mission in China and has given many recent
+interviews. His interviews invariably conflict with some of the UK science
+advice, especially:
 
 * response speed (needs to be fast for every reported case)
 * testing all suspected cases
@@ -201,7 +206,9 @@ WHO COVID-19 mission in China and given many recent interviews. In his interview
 Two of Aylward's interviews are [the New Scientist, on testing](https://www.newscientist.com/article/2237544-who-expert-we-need-more-testing-to-beat-coronavirus) 
 and the slightly older but very hard-hitting [Vox interview](https://www.vox.com/2020/3/2/21161067/coronavirus-covid19-china).
 
-Professor Aylward declines to criticise the two doctors who have defined England's medical response, he just keeps explaining why WHO is recommending countries do more than the UK is.
+Professor Aylward declines to criticise the two doctors who have lead England's
+and in part the UK's medical response, he just keeps explaining why WHO is
+recommending countries do more than the UK is.
 
 In the New Scientist on 23rd March 2020 there was a [critique of the UK
 government's scientific advice](https://www.newscientist.com/article/2238186-uks-scientific-advice-on-coronavirus-is-a-cause-for-concern/) .
@@ -212,8 +219,11 @@ From the New Scientist article:
 * Tracing is barely mentioned, which is what informs successful testing and quarrantining cases before they show symptoms
 * The Imperial College modelling seems to be the only modelling that is used rather than more usual combination of modelling teams. The Imperial College work was very important because it convinced the government to agree at least partially with science, but it has been shown to have some serious errors and oversights.
 
-The Imperial College modelling was reviewed by [The New England Complex
-Systems Institute](https://en.wikipedia.org/wiki/New_England_Complex_Systems_Institute) . Complex systems research is about mathematical modelling, and the UK government's science is based on a single mathematical model, so this is a helpful source. 
+The Imperial College modelling was reviewed by [The New England Complex Systems
+Institute](https://en.wikipedia.org/wiki/New_England_Complex_Systems_Institute).
+Complex systems research is about mathematical modelling, and the UK
+government's science is based on a single mathematical model, so this is a
+helpful source. 
 
 The [March 17th 2020 Review](https://necsi.edu/review-of-ferguson-et-al-impact-of-non-pharmaceutical-interventions) has this summary paragraph (references not copied in here):
 
@@ -228,7 +238,18 @@ The [March 17th 2020 Review](https://necsi.edu/review-of-ferguson-et-al-impact-o
 > where new cases were down to one yesterday, after excluding imported
 > international travelers that are quarantined.
 
-The Imperial College modelling seems to have been critically important to turn around the Uk policy of "do nothing". Neil Ferguson is to be congratulated on his work. As to the computer code underlying the model, he wrote [on Twitter on 22nd March 2020](https://twitter.com/neil_ferguson/status/1241835454707699713):
+
+Still-Unpublished "Thousands of Lines of Undocumented C Code"
+-------------------------------------------------------------
+
+The Imperial College modelling seems to have been critically important to turn
+around the Uk policy of "do nothing". For that much, Neil Ferguson is to be
+congratulated on his work. Unfortunately there has been no public
+followthrough, and so there can be no review of what turns out to be a single
+person's decades-old source code which drives some of the most important
+decisions the UK has ever made.
+
+As to the code, Ferguson wrote [on Twitter on 22nd March 2020](https://twitter.com/neil_ferguson/status/1241835454707699713):
 
 > I’m conscious that lots of people would like to see and run the pandemic
 > simulation code we are using to model control measures against COVID-19.  To
@@ -252,33 +273,36 @@ There is no doubt that Neil Fergusson is an authoritative voice, but to those
 of us who live in a world that routinely has "thousands of lines of undocumented C
 code", there is no excuse. 
 
-The UK government had ample choice of additional pandemic modelling code bases
-besides those of Neil Fergusson including:
+To illustrate, the UK government could have called on pandemic experts with an
+ample choice of additional pandemic modelling code bases already published,
+including:
 
 * [EPIMODEL on github](https://github.com/statnet/EpiModel), written by 9 people and kept current with models for many diseases and mathematical approaches
 * [ringbp on github]( https://github.com/cmmid/ringbp), as described in Lancet on the 28th February: [Feasibility of controlling 2019-nCoV outbreaks by isolation of cases and contacts](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30074-7/fulltext)
 
-There are just two of the most obvious of many projects. It takes a medical and
-mathematical specialist to work out which ones are best to use, and the UK government 
-had access to plenty of those as well - some of the best epidemology departments anywhere 
-are in UK universities and their staff have already formed collaborations to develop
-best-pratice policy advice.
+It takes a medical and mathematical specialist to work out which combination of
+modeling codebases are best to use. But we can say with confidence the approach
+chosen by the UK government was definitely not acceptable, and the continued
+refusal to publish is extremely poor practice. This computer science fact alone would 
+be sufficient grounds for well-informed citizens to ignore UK-level government advice 
+about coming out of 
 
-We can say with confidence the approach chosen by the UK government was
-definitely not best practice.
+To further illustrate how computer modelling alone can be very misleading even from eminent experts, on 25th March 2020 Sunepta Gupta of the [Oxford Evolutionary Ecology of Infectious Disease](https://www.eeid.ox.ac.uk/) was widely reported as stating in article in the Financial Times the unlikely claim that "[Coronavirus may have infected half of UK population](https://www.ft.com/content/5ff6469a-6dd8-11ea-89df-41bea055720b)" .  This interpretation is deeply in error, and the author only said that was the outside possibility in the range given by her modelling. Once again a pile of computer code unaccompanied by population testing to confirm or deny the mathematics has not been put in context.
 
-To further illustrate how important a multiplicity of science voices are, on 25th March 2020 Sunepta Gupta of the [Oxford Evolutionary Ecology of Infectious Disease](https://www.eeid.ox.ac.uk/) was widely reported as stating in article in the Financial Times the unlikely claim that "[Coronavirus may have infected half of UK population](https://www.ft.com/content/5ff6469a-6dd8-11ea-89df-41bea055720b)" however:
+In the same article Gupta questions the reliance of the UK government on the
+single model from Imperial College, and supports the evidence so far that not a
+single other specialist epidimology department in the UK was contacted by the
+UK government. This in turn supports the notion of "sciencism" determining UK
+policy.
 
-* Comentators most do not seem to have noticed that this is, once again, a pile of computer code without population testing to confirm or deny the mathematics, or to inform an evolution of the mathematics, as Sunepta Gupta herself acknowledges, and
-* Sunepta draws into question about the reliance of the UK government on a single model from Imperial College, and supports the evidence so far that not a single other specialist epidimology department in the UK was contacted by the UK government, which in turn supports the notion of "sciencism" determining UK policy.
+As of early April it seems from medical documentation published from Austria,
+the Netherlands and other countries that have followed WHO testing advice that
+the figure might be closer to 2% than 50%, although one town in Germany
+registered 13%. We just don't know yet, until the data from medical testing
+comes in.
 
-This demonstrates that computer modelling can be very helpful to show the range
-of possibilities, and very unhelpful if it is not connected to medical evidence
-from the real world. It seems from medical documentation published from Austria
-and other countries that have followed WHO testing advice that the figure is
-closer to 2% than 50%, and doubtless Sunepta Gupta has adjusted her modelling
-accordingly.
-
+The lesson I along with any other computer scientist can affirm is: never ever
+make a giant decision on the basis of one person's ancient unpublished source code.
 
 Open Source Action Items
 ========================
@@ -345,16 +369,16 @@ Agreement In Science-based Opinions
 Who Can I Believe?
 ------------------
 
-For citizens wondering "who do I believe?" there is comfort that all of the
+For citizens wondering "who do I believe?" it helps that all of the
 basic science recommendations worldwide are agreed, even among scientists who
 disagree so far on one aspect or another of this unknown virus. 
 
-The following two pieces represent hugely differing views from eminent
-scientists and mathematicians, which nevertheless agree on all principles.
+As an example, the following two pieces represent hugely differing views from eminent
+scientists and mathematicians, which nevertheless agree on all basic principles.
 Unlike the UK science advice, a multiplicity of views is important for solid
 science to emerge. England has had regular events and intensive study on
 pandemic responses in places such as the [Cambridge Centre for the Study of Existential Risk](https://www.cser.ac.uk/) and their research on _Global
-Catastrophic Biological Risks_ , and any of these could have been called on.
+Catastrophic Biological Risks_ , and any of these could have been called on, but were not.
 
 Nicholas Taleb and Yaneer Bar-Yam, authors of the Complex Systems Institute paper wrote in the [non-scientific Guardian article on 25th March 2020](https://www.theguardian.com/commentisfree/2020/mar/25/uk-coronavirus-policy-scientific-dominic-cummings) quoted in the abstract of this document:
 
